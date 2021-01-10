@@ -1,1 +1,1 @@
-<h1>Graphics<h1>
+<h1 align='center'>Graphics<h1>
