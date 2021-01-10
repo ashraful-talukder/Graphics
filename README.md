@@ -1,2 +1,2 @@
 <h1 align='center'>Graphics<h1>
-<h4>details will come tomorrow<h4>
+<h4 align='center'>details will come tomorrow<h4>
