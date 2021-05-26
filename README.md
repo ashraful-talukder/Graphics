@@ -2,7 +2,3 @@
 <h5 align='center'>details will come soon<h5>
 
 
-
-
-
-
